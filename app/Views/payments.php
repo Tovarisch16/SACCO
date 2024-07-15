@@ -30,15 +30,6 @@
 							<th class="text-center">Action</th>
 						</tr>
 					</thead>
-					<tbody>
-						
-						 <tr>
-						 	
-						 
-
-						 </tr>
-
-					</tbody>
 				</table>
 			</div>
 		</div>

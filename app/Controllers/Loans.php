@@ -6,6 +6,9 @@ class Loans extends BaseController
 {
     public function index(): string
     {
-        return view('loans');
+        return view('topbar').
+        view('navbar').
+        view('header').
+        view('loans');
     }
 }

@@ -31,51 +31,6 @@
 							<th class="text-center">Action</th>
 						</tr>
 					</thead>
-					<tbody>
-
-						 <tr> 
-						 	<td class="text-center"></td>
-						 	<td>
-						 		<p>Name :<b></b></p>
-						 		<p>Contact # :<b></b></p>
-						 		<p>Address :<b></b></p>
-						 	</td>
-						 	<td>
-						 		<p>Reference :<b></b></p>
-						 		<p>Loan type :<b></b></p>
-						 		<p>Plan :<b></b></p>
-						 		<p>Amount :<b></b></p>
-						 		<p>Total Payable Amount :<b></b></p>
-						 		<p>Monthly Payable Amount: <b></b></p>
-						 		<p>Overdue Payable Amount: <b></b></p>
-						 		
-						 		<p>Date Released: <b></b></p>
-						 		
-						 	</td>
-						 	<td>
-						 		
-						 		<p>Date: <b>
-						 		</b></p>
-						 		<p>Monthly amount:<b></b></p>
-						 		<p>Penalty :<b></b></p>
-						 		<p>Payable Amount :<b></b></p>
-						 		
-						 	</td>
-						 	<td class="text-center">
-						 			<span class="badge badge-warning">For Approval</span>
-						 			<span class="badge badge-info">Approved</span>
-						 			<span class="badge badge-primary">Released</span>
-						 			<span class="badge badge-success">Completed</span>
-						 			<span class="badge badge-danger">Denied</span>
-						 	</td>
-						 	<td class="text-center">
-						 			<button class="btn btn-primary edit_loan" type="button" data-id=""><i class="fa fa-edit"></i></button>
-						 			<button class="btn btn-danger delete_loan" type="button" data-id=""><i class="fa fa-trash"></i></button>
-						 	</td>
-
-						 </tr>
- 
-					</tbody>
 				</table>
 			</div>
 		</div>

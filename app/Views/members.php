@@ -28,17 +28,6 @@
 						</tr>
 					</thead>
 					<tbody>
-						
-						 <tr>
-						 	
-						 	<td class="text-center"></td>
-						 	
-						 	<td class="">None</td>
-						 	<td class="">Active</td>
-						 	
-
-						 </tr>
-
 					</tbody>
 				</table>
 			</div>
@@ -59,7 +48,7 @@
 	<script>
 	$('#member-list').dataTable()
 	$('#new_member').click(function(){
-		uni_modal("New member","manage_member.php",'mid-large')
+		uni_modal("New member","manage_member",'mid-large')
 	})
 	$('.view_member').click(function(){
 		uni_modal("View member","view_member.php?id="+$(this).attr('data-id'),'mid-large')

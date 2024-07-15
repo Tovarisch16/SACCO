@@ -6,6 +6,9 @@ class Payments extends BaseController
 {
     public function index(): string
     {
-        return view('payments');
+        return view('topbar').
+        view('navbar').
+        view('header').
+        view('payments');
     }
 }
