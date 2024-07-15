@@ -1,0 +1,660 @@
+CRITICAL - 2024-07-11 07:06:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:11:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:12:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:12:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:12:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:12:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:23:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:23:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:26:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:28:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:28:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:28:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 07:28:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('members', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 10:00:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "header.php"
+[Method: GET, Route: home]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('header', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('header')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 11:07:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "top.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('top.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('top', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('top')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 11:07:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "top.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('top.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('top', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('top')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 11:07:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "top.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('top.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('top', [], true)
+ 3 APPPATH\Controllers\Members.php(9): view('top')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:53:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_members.php"
+[Method: GET, Route: members]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_members.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_members', [], true)
+ 3 APPPATH\Controllers\Members.php(12): view('manage_members')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Members->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Members))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-11 12:56:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "manage_borrowers.php"
+[Method: GET, Route: borrowers]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('manage_borrowers.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('manage_borrowers', [], true)
+ 3 APPPATH\Controllers\Borrowers.php(10): view('manage_borrowers')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Borrowers->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Borrowers))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
